@@ -6,7 +6,7 @@
 
 int main(int argc, _TCHAR* argv[])
 {
-	printf("hello vs 2008 !");
+	printf("hello vs 2008 !\n");
 	return 0;
 }
 
